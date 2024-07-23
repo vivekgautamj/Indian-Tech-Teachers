@@ -62,7 +62,8 @@ The goal of this repository is to:
 ### ```Data Structures and Algorithms (DSA)``` - Help us in this list
 | Teachers/Channels | Social Media | Website | Tools They Use | 
 | ------ | ------ | ------ | ------ | 
-| | | | |
+| Raj Vikramaditya | [LinkedIn](https://in.linkedin.com/in/rajstriver) | [takeuforward.org](https://takeuforward.org/) | C++, Java |
+| Navdeep Singh | [LinkedIn](https://www.linkedin.com/in/navdeep-singh-3aaa14161/) | [neetcode.io](https://neetcode.io/) | Python |
 
 
 
