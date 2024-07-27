@@ -64,6 +64,7 @@ The goal of this repository is to:
 | ------ | ------ | ------ | ------ | 
 | Raj Vikramaditya | [LinkedIn](https://in.linkedin.com/in/rajstriver) | [takeuforward.org](https://takeuforward.org/) | C++, Java |
 | Navdeep Singh | [LinkedIn](https://www.linkedin.com/in/navdeep-singh-3aaa14161/) | [neetcode.io](https://neetcode.io/) | Python |
+| Nikhil Lohia | | [studyalgorithms.com](studyalgorithms.com) | C++
 
 
 
